@@ -14,14 +14,14 @@ pass :admin
 
 
 after this you can set serial port (modbus/rtu) baud rate , parity and stop bit from rs485 config tab
- ![alt text](https://github.com/ARoozitalab/LWIP-Modbus-TCP-to-Modbus-RTU-converter/blob/master/rs485_tab.jpg "login menu")
+ ![alt text](https://github.com/ARoozitalab/LWIP-Modbus-TCP-to-Modbus-RTU-converter/blob/master/rs485_tab.JPG "login menu")
  
  
 you can send a modbus/rtu packet through http from modbus rtu tab
-  ![alt text](https://github.com/ARoozitalab/LWIP-Modbus-TCP-to-Modbus-RTU-converter/blob/master/modbus_tab.jpg "login menu")
+  ![alt text](https://github.com/ARoozitalab/LWIP-Modbus-TCP-to-Modbus-RTU-converter/blob/master/modbus_tab.JPG "login menu")
 
 with modbus software like modbus poll for modbus/tcp  connection just set ip and port to 502 to use board as a converter
-  ![alt text](https://github.com/ARoozitalab/LWIP-Modbus-TCP-to-Modbus-RTU-converter/blob/master/modbus.jpg "login menu")
+  ![alt text](https://github.com/ARoozitalab/LWIP-Modbus-TCP-to-Modbus-RTU-converter/blob/master/modbus.JPG "login menu")
   
   
   you can use this eval board to run this example :
