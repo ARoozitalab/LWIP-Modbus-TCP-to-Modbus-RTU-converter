@@ -53,7 +53,7 @@ long long num_save[5]={0};
 /* delay functions ---------------------------------------------------------*/
 void delay()
 {
-int j; 
+uint32_t j; 
 for(j=0;j<1000000;j++);
 for(j=0;j<1000000;j++);
 	
